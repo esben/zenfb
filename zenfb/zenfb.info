@@ -27,6 +27,7 @@ base theme = zen
 stylesheets[all][]   = html-elements.css
 stylesheets[all][]   = layout.css
 ; stylesheets[all][] = tabs.css
+stylesheets[all][]   = icons.css
 ; stylesheets[all][] = messages.css
 ; stylesheets[all][] = block-editing.css
 ; stylesheets[all][] = wireframes.css
