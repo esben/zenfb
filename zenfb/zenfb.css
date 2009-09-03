@@ -547,12 +547,6 @@
   .block.even /* Zebra striping independent of each region */
   {
   }
-  
-  .block a:link,
-  .block a:visited
-  {
-    color: #1e4470;
-  }
 
   .region-count-1 /* Incremental count for each block in the region */
   {
@@ -570,11 +564,8 @@
   {
     background: #d7e0ee;
     border-top: 1px solid #133987;
-/*    margin: 0px;*/
     padding: 2px 8px;
     font-size: 1.2em;
-/*    color: #1e4470;*/
-
   }
 
   #footer .block
@@ -839,10 +830,15 @@
   .admin a:link,
   .admin a:visited,
   .admin-list a:link,
-  .admin-list a:visited,
-  #content-area a:link,
-  #content-area a:visited
+  .admin-list a:visited
   {
-    color: #1e4470;
     font-weight: bold;
+  }
+
+/** administration panel **/
+  .admin-panel h3
+  {
+    background: #d7e0ee;
+    border-top: 1px solid #133987;
+    padding: 2px 8px;
   }

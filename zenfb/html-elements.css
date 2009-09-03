@@ -192,26 +192,26 @@
   a:link
   {
 	text-decoration: none;
-/*    color: #1e4470; */
+    color: #1e4470;
   }
 
   a:visited
   {
 	text-decoration: none;
-/*    color: #1e4470; */
+    color: #1e4470;
   }
 
   a:hover,
   a:focus
   {
 	text-decoration: underline;
-/*    color: #1e4470; */
+    color: #1e4470;
   }
 
   a:active
   {
 	text-decoration: none;
-/*    color: #1e4470; */
+    color: #1e4470;
   }
 
 /** tables **/
